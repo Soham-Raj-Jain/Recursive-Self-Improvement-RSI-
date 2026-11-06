@@ -4,7 +4,7 @@
 One Colab notebook, free to run, with every example executed and plotted.
 
 [Open the notebook in Colab](https://colab.research.google.com/drive/1L8vATXWoheF2IEpbw9xybvE7kwnZTKxG?usp=sharing)
-· [Watch the demo video](https://youtu.be/sEl_ia_Z_h4)
+· [Watch the demo video](https://youtu.be/ovlXCQNfzWY)
 
 ## The problem area: a self-improving expression optimizer
 
